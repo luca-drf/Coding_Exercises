@@ -1,0 +1,6 @@
+[submodule "Chaining_Songs"]
+	path = Chaining_Songs
+	url = https://github.com/radome/Chaining_Songs.git
+[submodule "Word_Distance_Library"]
+	path = Word_Distance_Library
+	url = https://github.com/radome/Word_Distance_Library
